@@ -1,0 +1,1 @@
+This was my first ever game, imperfect and still a long way to go. This is a 2D game, that I made by watching the youtube tutorial of video of 'Unity3D college'. Added color assets on my own, rest is all the same. Baby steps at a time. 
