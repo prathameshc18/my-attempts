@@ -7,6 +7,7 @@ public class gamemanager : MonoBehaviour
 {
     bool gameHasEnded=false;
     public GameObject completeui;
+    public GameObject failedui;
     public void complete()
     {
         completeui.SetActive(true);
@@ -16,6 +17,7 @@ public class gamemanager : MonoBehaviour
         if(gameHasEnded==false)
         {
             gameHasEnded = true;
+            failedui.SetActive(true);
             Debug.Log("Game over");
             Invoke("restart",2f);
         }
