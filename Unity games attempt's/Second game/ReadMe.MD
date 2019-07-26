@@ -2,3 +2,6 @@ Second game I made, not yet complete(as off when I'm typing this). First 3D game
 
 Edit 1-
 Added fog for increased difficulty, tweeked forward-moving speed, used VelocityChange to smooth out side way movements, and added scoreboard which will score according to distance travelled.
+
+Edit 2-
+Added actual level completion, and respawn. Learned about panels when game is finished successfully(from the video) and applied it myself by making a new panel for level failure. So far so good.
