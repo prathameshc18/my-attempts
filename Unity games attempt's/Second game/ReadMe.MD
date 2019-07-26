@@ -1,0 +1,1 @@
+Second game I made, not yet complete(as off when I'm typing this). First 3D game. Learned about player movements, and collision(partly more than the first game). Source of this tutorial is Brackey's youtube channel(Do subscribe, it has lot's of useful content on it).
