@@ -5,3 +5,6 @@ Added fog for increased difficulty, tweeked forward-moving speed, used VelocityC
 
 Edit 2-
 Added actual level completion, and respawn. Learned about panels when game is finished successfully(from the video) and applied it myself by making a new panel for level failure. So far so good.
+
+Edit 3-
+Finished this one to an extent. Might add different levels later, but as of now, this one is done and dusted.
